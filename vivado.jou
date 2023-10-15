@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Sun Oct  1 08:34:49 2023
+# Process ID: 5104
+# Current directory: C:/Users/user/Desktop/VLSI internship/project_1/traffic_light_controller
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12844 C:\Users\user\Desktop\VLSI internship\project_1\traffic_light_controller\traffic_light_controller.xpr
+# Log file: C:/Users/user/Desktop/VLSI internship/project_1/traffic_light_controller/vivado.log
+# Journal file: C:/Users/user/Desktop/VLSI internship/project_1/traffic_light_controller\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/user/Desktop/VLSI internship/project_1/traffic_light_controller/traffic_light_controller.xpr}
+update_compile_order -fileset sources_1
